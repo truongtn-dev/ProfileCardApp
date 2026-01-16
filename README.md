@@ -1,5 +1,3 @@
-**# 📱 Profile Card Viewer (Bài Tập 2)
-
 Dự án demo ứng dụng React Native hiển thị danh sách nhân sự, tập trung vào việc thực hành bố cục giao diện (Layout), quản lý Style và Component.
 
 ## 🎯 Mục Tiêu
