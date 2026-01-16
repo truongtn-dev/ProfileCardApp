@@ -1,3 +1,5 @@
+# 📱 Profile Card Viewer (Bài Tập 2)
+
 Dự án demo ứng dụng React Native hiển thị danh sách nhân sự, tập trung vào việc thực hành bố cục giao diện (Layout), quản lý Style và Component.
 
 ## 🎯 Mục Tiêu
@@ -21,4 +23,4 @@ Clone dự án hoặc tạo mới, sau đó cài đặt các thư viện cần t
 
 ```bash
 # Cài đặt các thư viện phụ thuộc (bao gồm styled-components và safe-area)
-npm install styled-components react-native-safe-area-context**
+npm install styled-components react-native-safe-area-context
